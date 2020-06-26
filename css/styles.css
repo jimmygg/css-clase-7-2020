@@ -25,3 +25,13 @@ p{
 a{
 	text-decoration: none;
 }
+
+/* Propiedades Bg */
+#bg{
+	height: 500px;
+	width: 800px;
+	background-color: teal;
+	background-image: url('../img/img_tree.png');
+	background-repeat: no-repeat;
+	background-position: center top;
+}
