@@ -12,4 +12,16 @@ h2{
 	font-size: 20px;
 	font-weight: normal;
 	/* font-style: italic; */
+	text-decoration: underline;
+	text-transform: capitalize;
+	letter-spacing: 4px;
+}
+
+/* Propiedades texto */
+p{
+	text-align: right;
+}
+
+a{
+	text-decoration: none;
 }
